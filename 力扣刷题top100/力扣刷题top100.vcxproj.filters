@@ -21,5 +21,38 @@
     <ClCompile Include="力扣5-最长回文子串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="力扣6-Z字形变换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣10-正则表达式匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣22-括号生成.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣31-下一个排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣32-最长有效括号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="代码速度测试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣12-整数转罗马数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣28-实现strStr().cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣33-搜索旋转排序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣34-在排序数组中查找元素的第一个和最后一个位置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣42-接雨水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
