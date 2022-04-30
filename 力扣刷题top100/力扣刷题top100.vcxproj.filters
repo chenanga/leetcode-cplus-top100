@@ -66,5 +66,11 @@
     <ClCompile Include="力扣56-合并区间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="力扣72-编辑距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣84-柱状图中最大的矩形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
