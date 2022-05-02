@@ -194,6 +194,8 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="力扣84-柱状图中最大的矩形.cpp" />
+    <ClCompile Include="力扣85-最大矩形.cpp" />
+    <ClCompile Include="力扣96-不同的二叉搜索树.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
