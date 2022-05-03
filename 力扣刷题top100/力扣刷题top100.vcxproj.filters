@@ -78,5 +78,11 @@
     <ClCompile Include="力扣96-不同的二叉搜索树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="力扣105-从前序与中序遍历序列构造二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣114-二叉树展开为链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
