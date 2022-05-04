@@ -87,5 +87,11 @@
     <ClCompile Include="力扣121-买卖股票的最佳时机.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="力扣124-二叉树的最大路径和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣128-最长连续序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
