@@ -93,5 +93,14 @@
     <ClCompile Include="力扣128-最长连续序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="力扣141-环形链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣142-环形链表II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣146-LRU 缓存.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
