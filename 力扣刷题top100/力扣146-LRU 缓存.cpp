@@ -196,7 +196,8 @@ private:
  */
 
 int main() {
-
+    cout << " cout " << endl;
+    clog << " clog" << endl;
 	system("pause");
 	return 0;
 }

@@ -102,5 +102,11 @@
     <ClCompile Include="力扣146-LRU 缓存.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣152-乘积最大子数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
