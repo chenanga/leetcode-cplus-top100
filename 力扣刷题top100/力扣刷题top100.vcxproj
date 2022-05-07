@@ -173,6 +173,8 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="力扣152-乘积最大子数组.cpp" />
+    <ClCompile Include="力扣155-最小栈.cpp" />
+    <ClCompile Include="力扣160-相交链表.cpp" />
     <ClCompile Include="力扣22-括号生成.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
